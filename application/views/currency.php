@@ -1,0 +1,10 @@
+<html>
+<head>
+	<title>Currency</title>
+</head>
+<body>
+	<?php
+	$this->load->get_cource();
+	?>
+</body>
+</html>
